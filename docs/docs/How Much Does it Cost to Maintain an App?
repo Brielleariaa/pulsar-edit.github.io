@@ -1,0 +1,105 @@
+App maintenance is an ongoing investment to ensure your app continues to meet user expectations, stays competitive in the market, and remains secure and functional. 
+
+How about if we reveal all what is covered in the scope of the App maintenance, Why do you need to regularly manage your App, what kind of hours and money should you be planning to invest to manage your app in 2023? It will be cool, ya?
+
+Ideally, a basic App Maintenance Cost Plan of 160 hours per month will do a fair job to manage and upkeep a commercial version of your App and this would cost you less than $ 3000/ Month. Now depending upon the needs, number of App users, number of requests/ issues reported etc. you may need to retain your App maintenance team for more hours than just 160 on month on month basis.
+
+1. What is covered in the Scope of App Support & Maintenance?
+The App is needed to be regularly updated largely for its following parts and components:
+
+iOS App and Android Apps whether built in native or cross platform tech.
+Web Parts/ Web App (Front end, backend, Web replica of mobile apps).
+Native APIs and Third-party APIs.
+Database, Design files.
+
+Any new feature development utilizing during the maintenance.
+Upkeep and updates of beyond-the-app-technology and assets like App Install Ad creatives, beyond the App user onboarding (like through QR code or through an integrated partner’s app or site), Marketing automation, analytics, integration with external Apps and so on.
+
+2. Activities that we perform for App Support & Maintenance
+
+Following are the high level tasks that are performed to regularly upkeep and update your App:
+
+1. Complete QA Testing by a dedicated QA Engineer and Business Analyst to figure out all possible Bugs — mostly a one time effort for every major release.
+
+2. Fixing of Bugs are Reported by the client + Bugs as reported by our Testing Team across iOS, Android, Backend, Web or anywhere else.
+
+3. Updating the App and its underlying Technology Whenever there is a soft or major OS update from Apple or Google.
+
+4. Updating Apps to be compatible with all latest releases of all third Party APIs being used in the App and in the backend.
+
+5. Regular App Performance optimization for a high performing App
+
+6. Periodical App Code clean up as a regular practice and Code repository Maintenance.
+
+7. Regular Documentation, Creating App’s SDKs and APIs
+
+8. Regular Store upload, putting web parts on live server, coordinating with App stores on behalf of the client.
+
+9. Server Maintenance corresponding to the cloud provider’s infrastructure and features
+
+10. Managing, Recording, and Sharing the Timesheet with the client
+
+3. App Maintenance Plans and Pricing from Agicent
+
+We’ve kept it very simple, you retain us for X number of hours a month for App maintenance and pay the fee. Obviously, the more hours you retain us for the better will be the pricing. We always ask our clients to start with the lowest plan and then we jointly analyze in 3 months if 160 hours are enough to handle the App support demands and if not then only we ask you to increase the plan with justification.
+
+4. Skills and Engineers needed for App Maintenance Process
+
+If your App runs on both iOS and Android and also has a web front end along with a backend, then you need following skilled Engineers to perform App maintenance:
+
+– Native or Cross Platform iOS/ Android Developers.
+
+Native would include Swift/ Xcode developer for iOS; Kotlin/ Java and Studio Developer for Android.
+
+Cross platform skills would be React native, Flutter or Ionic.
+
+– Backend Developers
+
+The skills can be node.js, mongoDB, ExpressJS or MERN Stack or Laravel/ PHP, or .NET or Java (Depending upon the tech stack being used at your backend).
+
+– Web Front End Developer
+
+If you have a landing page website or a complete App’s replica on the web then you may need web front end developers experts in HTML, JS, React JS or Angular or PHP/ Laravel or ASP.NET (Depending upon the tech stack being used at the website end).
+
+– Professional App Tester who knows both manual and automation testing.
+
+– UI/ UX Designer knowing Figma, Photoshop, Adobe design suite.
+
+– Business Analyst and Project Coordinator
+
+The one who will be internal project stakeholder at Agicent, will be your single point of contact, will coordinate between you and development and will also do all activities related to business analysis.
+
+5. Factors to consider to find out how much does it cost to maintain an App?
+Although we have made easier and straight forward for you to do app maintenance by offering hourly maintenance plans, but there still can be some factors that can raise or bring down the cost of App maintenance as follows:
+
+The complexity of the application
+The basic factor that contributes to the maintenance cost of the application in 2023 is the complexity of the application. Everyone wants to have advanced apps with more and more features, screens, and much more. But keep in mind that if you are adding these it will further raise your maintenance costs to the greatest extent. Adding more to it, the maintenance costs will also rise with the involvement of higher technology or framework for its development.
+
+Hybrid Applications
+The smartphones available in the market depend upon different operating systems. Everyone loves to have the one that they prefer the most. Android and iOS platforms are the two leading operating systems that the majority of users prefer to have on. Do you know what is the basic factor that lies behind the success of an application well its usage? The majority of the time developers prefer to create hybrid applications that can work effectively on both Android and iOS operating systems. But if you have created such, just keep in mind that the maintenance costs are also going to be quite higher than that of the maintenance costs of the same application for both of the platforms.
+
+Third-Party Integrations
+The integration of third-party sources also adds up in raising the overall maintenance cost of an application. More will be your app linked closely with the different external sources such as payment platforms, social media services, higher will be the overall maintenance cost of your app. Let’s make it simpler for you, the maintenance cost of a simple photo editing app is usually quite lower than that of the news app.
+
+App Development Team Location
+The maintenance cost of an application also differs a lot as per the location. You may need to pay the maintenance cost of about $50–150 per hour in the USA but it may somewhere lie in between $25–60 per hour in Eastern and Central Europe. Whereas if we talk about the maintenance cost of the application in India it is quite low and you can easily accomplish it by paying $10–30 per hour.
+
+6. Few things that you can do to make sure less maintenance overhead:
+
+– Build your app well architected right from the start
+– Take care of the scalability
+– have a professional Development Team
+– Check your analytics
+
+7. Benefits of App Maintenance Process
+
+– High performing App, every single day
+– Scalability
+– Security
+– Higher user engagement and better Marketing
+– Better integration, exploit third party services to the maximum
+
+Conclusion of App Development Cost and Process
+Application development and maintenance is a never-ending process. Right from adding updates to resolving issues, there are a lot more things that go on side by side throughout. The expenses on an app do not end with its creation, they kind of keep on but for only the good.
+
+Source: https://www.agicent.com/blog/how-much-does-it-cost-to-maintain-an-app/
